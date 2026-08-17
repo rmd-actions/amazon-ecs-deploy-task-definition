@@ -1,6 +1,6 @@
 {
   "name": "aws-actions-amazon-ecs-deploy-task-definition",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "description": "Registers an Amazon ECS task definition and deploys it to an ECS service.",
   "main": "index.js",
   "scripts": {
@@ -26,8 +26,8 @@
   "homepage": "https://github.com/aws-actions/amazon-ecs-deploy-task-definition#readme",
   "dependencies": {
     "@actions/core": "^2.0.1",
-    "@aws-sdk/client-codedeploy": "^3.922.0",
-    "@aws-sdk/client-ecs": "^3.908.0",
+    "@aws-sdk/client-codedeploy": "^3.1076.0",
+    "@aws-sdk/client-ecs": "^3.1076.0",
     "yaml": "^2.8.3"
   },
   "devDependencies": {
